@@ -1,0 +1,10 @@
+MODEL_IN = 5
+MODEL_OUT = 8
+TRAIN_MASKS_FOLDER = '/GeneratedMasks/'
+TRAIN_IMAGE_FOLDER = '/GeneratedImgs/'
+VAL_MASKS_FOLDER = '/ValidGeneratedMasks/'
+VAL_IMAGE_FOLDER = '/ValidGeneratedImgs/'
+BATCH_SIZE = 20
+NO_EPOCHS = 36
+LR = 2e-4
+WEIGHTS_FILE = 'InceptionUNET/UnetWeights_Run5.pth'
