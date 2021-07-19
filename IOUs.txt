@@ -1,0 +1,9 @@
+IOUs for segmentation
+Body Text: 93.68129301 
+Heading: 62.68190463 
+Floating Text: 55.07970923 
+Caption: 69.93904517 
+Header&Footer: 90.55807567 
+Table: 73.35076045
+Graphic: 68.59863982
+Combined : 74.21513136
